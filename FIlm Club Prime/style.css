@@ -996,7 +996,7 @@ a.text-primary:focus, a.text-primary:hover{
     #home-slider .slick-bg{
         padding: 50px 0;
     }
-
+    
     .r-mb-23{
         margin-bottom: 23px;
     }
@@ -1020,7 +1020,9 @@ a.text-primary:focus, a.text-primary:hover{
     #home-slider p{
         margin: 22px 0; 
     }
-
+    #home-slider .slick-bg.s-bg-1{
+        background-image: url(images/fc/landing.jpeg);
+    }
     .iq-main-header{
         margin-bottom: 10px;
     }
@@ -1385,6 +1387,9 @@ li.slide-item{
     li.slide-item.slick-current:hover .block-images, li.slide-item:hover .block-images, li.slide-item.slick-active + li.slide-item.slick-active + li.slide-item.slick-active + li.slide-item.slick-active:hover .block-images, li.slide-item.slick-active + li.slide-item.slick-active + li.slide-item.slick-active:hover .block-images{
         transform: none;
     } 
+    #home-slider .slick-bg.s-bg-1{
+        background-image: url(images/fc/landing.jpeg);
+    }
     .type{
         padding: 9px 10px;
         font-size: 13px;

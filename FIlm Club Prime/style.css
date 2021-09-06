@@ -784,10 +784,10 @@ header#main-header.menu-sticky{
     background-image: url(https://i.ytimg.com/vi/2a-2hMVQ4NQ/maxresdefault.jpg);
 }
 #home-slider .slick-bg.s-bg-2{
-    background-image: url(images/Trailer.jpeg); 
+    background-image: url(images/fc/Trailer.jpeg); 
 }
 #home-slider .slick-bg.s-bg-3{
-    background-image: url(images/tailer\ pic\ 2.jpeg);
+    background-image: url(images/fc/tailer\ pic\ 2.jpeg);
 }
 
 .slick-bg::before{

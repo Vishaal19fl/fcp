@@ -1021,7 +1021,7 @@ a.text-primary:focus, a.text-primary:hover{
         margin: 22px 0; 
     }
     #home-slider .slick-bg.s-bg-1{
-        background-image: url(images/fc/landing.jpeg);
+        background-image: url(images/fc/landing1.jpeg);
     }
     .iq-main-header{
         margin-bottom: 10px;
@@ -1388,7 +1388,7 @@ li.slide-item{
         transform: none;
     } 
     #home-slider .slick-bg.s-bg-1{
-        background-image: url(images/fc/landing.jpeg);
+        background-image: url(images/fc/landing1.jpeg);
     }
     .type{
         padding: 9px 10px;
